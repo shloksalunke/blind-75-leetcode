@@ -67,7 +67,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
