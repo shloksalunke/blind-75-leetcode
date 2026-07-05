@@ -69,7 +69,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
